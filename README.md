@@ -4,9 +4,9 @@ Este monorepo contiene una colección de mini proyectos desarrollados para apren
 
 ## Estructura
 
-- `projects/`: Contiene todos los mini proyectos individuales
+- `Projects/`: Contiene todos los mini proyectos individuales
   - Cada proyecto tiene su propia documentación, código fuente y recursos
 
 ## Proyectos
 
-- [Proyecto 1](./Projects/Biblioteca-Digital): Breve descripción
+- [Proyecto 1](Projects/Biblioteca-Digital): Breve descripción

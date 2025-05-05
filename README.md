@@ -9,4 +9,4 @@ Este monorepo contiene una colección de mini proyectos desarrollados para apren
 
 ## Proyectos
 
-- [Proyecto 1](Projects/Biblioteca-Digital): Breve descripción
+- [Proyecto 1](Projects/Biblioteca-Digital/README.md): Breve descripción
